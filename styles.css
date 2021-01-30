@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-image: linear-gradient(white, #e0ebe8);
+
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+  color: #4ab19b;
+
+}
+
+h2 {
+  color: #4ab19b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin: 0 auto 100px auto;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #4ab19b;
+}
+p {
+  font-family: 'Merriweather', serif;
+  color: #4ab19b;
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 7px;
+  margin: 70px;
+
+}
+
+
+.top-container {
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.bottom-container {
+  background-color: #c5ded7;
+
+}
+
+.profile {
+  margin: 20px;
+  padding: 20px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.computerimg {
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+  padding: 20px;
+}
+
+.contact-me {
+  background-color: #c5ded7;
+}
